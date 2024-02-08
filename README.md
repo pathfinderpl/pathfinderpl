@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pathfinderpl
+- 👋 Hi, I’m Michał
 - 👀 I’m interested in the beauty of cooperation between people
 - 🌱 I’m currently learning HTML, CSS and basics of Front-End Development
 - 💞️ I’m looking to collaborate on ... I don't know yet 😢
