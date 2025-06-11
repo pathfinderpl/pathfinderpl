@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Michał
-- 👀 I’m interested in the beauty of cooperation between people
-- 🌱 I’m currently learning HTML, CSS and basics of Front-End Development
-- 💞️ I’m looking to collaborate on ... I don't know yet 😢
+- 👀 I'm interested in a little Back-End, a little Front-End, but probably most in DevOps and connectivity 🛜
+- 🌱 I’m currently learning basics of Front-End and Back-End Development
+- 💞️ I’m not looking to collaborate on anything yet 🫢
 - 📫 How to reach me: on X @Michael87pl
 - ⚡ Fun fact: Occasional copywriter and I don't even know how it happened 😅
-- 👨🏼‍💻 Modest portfolio: https://pathfinderpl.github.io/html-portfolio/
 
 <!---
 pathfinderpl/pathfinderpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
